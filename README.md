@@ -21,8 +21,8 @@ Save the data to the file
 # CODE
 /*
 ~~~
-Name:Beauty Kumari S
-Reg no:212220040023
+Name:Jayahari E
+Reg no:212221040065
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
